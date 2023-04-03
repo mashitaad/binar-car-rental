@@ -3,7 +3,6 @@ import ReactDOM from 'react-dom/client';
 import Home from "../src/pages/LandingPage"
 import Search from "../src/pages/SearchPage"
 import Content from "../src/pages/ContentPage"
-import SearchResult from "../src/pages/SearchResult"
 import {
   createBrowserRouter,
   RouterProvider,
@@ -18,10 +17,6 @@ const router = createBrowserRouter([
   {
     path: "/search",
     element: <Search />,
-  },
-  {
-    path: "/sresult",
-    element: <SearchResult />,
   },
   {
     path: "/content",
