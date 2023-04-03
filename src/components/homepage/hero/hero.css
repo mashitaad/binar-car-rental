@@ -1,0 +1,46 @@
+.container-fluid {
+    background-color: #F1F3FF;
+}
+
+.homepage {
+    height: 550px;
+    background-color: #F1F3FF;
+    display: flex;
+    align-items: center;
+}
+
+/* TEXT COMPONENT */
+.title {
+    font-size: 36px;
+    font-weight: 700;
+    margin-bottom: 16px;
+    margin-top: 50x;
+}
+
+.paragraph {
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.button {
+    background: #5CB85F;
+    border: 0;
+    padding: 12px 16px;
+    color: white;
+    font-size: 15px;
+    font-weight: 700;
+    border-radius: 5px;
+}
+
+/* IMAGE */
+.image_hero {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    width: 50% !important;
+}
+
+.image_hero img {
+    width: 100%;
+}
