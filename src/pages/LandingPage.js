@@ -11,15 +11,12 @@ import { serviceCom } from '../components/constant/listService'
 import { whyUsCom } from '../components/constant/listwhyUs'
 import { testimonialCom } from '../components/constant/lisTestimonial'
 import { faqCom } from '../components/constant/listFaq'
-import { answerCom } from '../components/constant/listAnswer'
 const props = {
   serviceCom, 
   whyUsCom, 
   testimonialCom, 
   faqCom, 
-  answerCom
 }
-
 
 export default function HomePage() {
   return (
