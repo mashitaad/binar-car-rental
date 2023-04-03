@@ -1,0 +1,60 @@
+.background {
+    height: 266px;
+    background-color: #F1F3FF;
+    display: flex;
+    align-items: center;
+}
+
+.page {
+    margin-top: 15vh;
+}
+
+.title-box h5 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.title-box h6 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    margin-top: 1rem;
+}
+
+.title-box ul {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 175%;
+    color: #8A8A8A;
+}
+
+.title-accordion {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.box-content {
+    margin-right: 4vh;
+    border: 3px solid #e5e5e5;
+    padding: 40px !important;
+    border-radius: 10px;
+}
+
+.box-content-flex {
+    justify-content: center;
+    padding-top: 60px;
+    height: 500px;
+    border-radius: 10px;
+    border: 3px solid #e5e5e5;
+    margin: 0 0 0 auto;
+}
+
+.accordion-detail {
+    color: black;
+}
