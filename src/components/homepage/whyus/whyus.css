@@ -1,0 +1,49 @@
+/* TEXT COMPONENT */
+.whyus-title {
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    padding-bottom: 14px;
+}
+
+.whyus-paragraph {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    padding-bottom: 30px;
+}
+
+/* BAGIAN CARD */
+.desc-whyus {
+    border: 3px solid #D4D4D4;
+    height: 26vh;
+    border-radius: 10px;
+    margin-right: 20px;
+}
+
+.desc-whyus img {
+    width: 32px;
+    margin-left: 8%;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.desc-title {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-left: 8%;
+    margin-bottom: 20px;
+}
+
+.desc-para {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 20px;
+    margin-left: 8%;
+    margin-right: 5%;
+}
+
+.card-section {
+    padding-bottom: 130px;
+}
