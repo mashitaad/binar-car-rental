@@ -1,0 +1,45 @@
+.main {
+    margin-bottom: 95px;
+    margin-top: 104px;
+}
+
+.image_service img {
+    width: 80%;
+    display: flex;
+    margin-bottom: 40px;
+    margin-left: 70px;
+}
+
+/* TEXT COMPONENT */
+.service-content {
+    margin-left: 50px;
+}
+
+.service-title {
+    font-size: 24px;
+    line-height: 36px;
+    font-weight: 700;
+    padding-bottom: 24px;
+}
+
+.service-paragraph {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 20px;
+}
+
+.service-content ul li {
+    list-style: none; 
+    /* biar titik titknya gak keluar */
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 20px;
+    padding-top: 7px;
+    padding-bottom: 9px;
+    margin-left: -25px;
+}
+
+/* UNTUK TANDA CENTANG */
+.service-content ul img {
+    margin-right: 15px;
+}
