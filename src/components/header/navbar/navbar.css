@@ -1,0 +1,26 @@
+.offCanvas{
+  width: 150px !important;
+  text-decoration: none;
+}
+
+.bg-light{
+  background-color: #F1F3FF;
+}
+
+/* FONT COMPONENTS */
+.navbar-list {
+  padding-right: 5rem;
+}
+
+.list-a {
+  color: black;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+/* TRANSISI */
+.trans-02{
+  transition: .8s ease-in-out;
+}
